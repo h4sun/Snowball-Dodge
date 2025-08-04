@@ -32,7 +32,8 @@ As time passes, the game gets faster and more challenging.
    pip install pygame
    ```
 3. Clone or download this repository.
-4. Run the game:
+4. Place character.png and snowball.png inside an assets/ folder.
+5. Run the game:
   ```bash
    python main.py
    ```
