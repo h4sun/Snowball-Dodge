@@ -50,3 +50,6 @@ Built using Pygame.
 
 Images used are placeholders — feel free to replace them with your own.
 
+<img width="793" height="595" alt="Ekran görüntüsü 2025-08-04 172319" src="https://github.com/user-attachments/assets/af3d57a9-50e2-4cfb-8864-86cdbf662566" />
+
+<img width="797" height="602" alt="Ekran görüntüsü 2025-08-04 172327" src="https://github.com/user-attachments/assets/26dab89e-b598-4ef2-951b-5404198956d0" />
